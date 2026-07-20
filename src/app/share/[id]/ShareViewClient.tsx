@@ -19,7 +19,8 @@ import {
   Trash2, 
   Save, 
   X,
-  FileText
+  FileText,
+  Loader2
 } from "lucide-react";
 import { toast } from "sonner";
 import { supabase, Share } from "@/lib/supabase";
